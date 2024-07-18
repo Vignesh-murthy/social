@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vignesh-murthy/social/static/css/main.be307fdc.css",
+    "main.js": "/Vignesh-murthy/social/static/js/main.444077de.js",
+    "static/js/453.75120864.chunk.js": "/Vignesh-murthy/social/static/js/453.75120864.chunk.js",
+    "static/media/pic.jpg": "/Vignesh-murthy/social/static/media/pic.f0df6126affb5c4dbb96.jpg",
+    "static/media/post2.avif": "/Vignesh-murthy/social/static/media/post2.497296fa324e8fa86467.avif",
+    "index.html": "/Vignesh-murthy/social/index.html",
+    "main.be307fdc.css.map": "/Vignesh-murthy/social/static/css/main.be307fdc.css.map",
+    "main.444077de.js.map": "/Vignesh-murthy/social/static/js/main.444077de.js.map",
+    "453.75120864.chunk.js.map": "/Vignesh-murthy/social/static/js/453.75120864.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be307fdc.css",
+    "static/js/main.444077de.js"
+  ]
+}
